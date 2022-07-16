@@ -1,0 +1,3 @@
+membuat fitur register,login dan mekanisme awal fitur saldo dari jam 23.21 senin 11 juli sampai selasa jam 2:48
+membuat fitur saldo dan checkout jam 1928 sampai jam 2250 selasa 
+melanjutkan ke fitur sorting dan membuat menu sederhana 1520 sampai 1930 rabu
